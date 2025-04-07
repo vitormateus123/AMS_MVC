@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AMST5_Task11_Interface01/1.0.0": {
+        "runtime": {
+          "AMST5_Task11_Interface01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AMST5_Task11_Interface01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
