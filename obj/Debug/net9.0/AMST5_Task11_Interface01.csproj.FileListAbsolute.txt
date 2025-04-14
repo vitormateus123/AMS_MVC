@@ -95,3 +95,4 @@ C:\AMST5\2A\Projects\POO\AMST5_Task11_Interface01\obj\Debug\net9.0\refint\AMST5_
 C:\AMST5\2A\Projects\POO\AMST5_Task11_Interface01\obj\Debug\net9.0\AMST5_Task11_Interface01.pdb
 C:\AMST5\2A\Projects\POO\AMST5_Task11_Interface01\obj\Debug\net9.0\AMST5_Task11_Interface01.genruntimeconfig.cache
 C:\AMST5\2A\Projects\POO\AMST5_Task11_Interface01\obj\Debug\net9.0\ref\AMST5_Task11_Interface01.dll
+C:\AMST5\2A\Projects\POO\AMST5_Task11_Interface01\obj\Debug\net9.0\AMST5_Task11_Interface01.sourcelink.json

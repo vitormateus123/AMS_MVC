@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pTUQuWAFigbr7yoDbEs2cCg+05XQKL5tK/CrKq7KS+g=",
+  "Hash": "dWxKW0GUoPdyCL8uaXvHWm7r3IiT11RZTJWmkyHtvtI=",
   "Source": "AMST5_Task11_Interface01",
   "BasePath": "_content/AMST5_Task11_Interface01",
   "Mode": "Default",
@@ -1445,6 +1445,69 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\AMST5\\2A\\Projects\\POO\\AMST5_Task11_Interface01\\wwwroot\\images\\books.jpg",
+      "SourceId": "AMST5_Task11_Interface01",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\AMST5\\2A\\Projects\\POO\\AMST5_Task11_Interface01\\wwwroot\\",
+      "BasePath": "_content/AMST5_Task11_Interface01",
+      "RelativePath": "images/books#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qcm8b1mdwg",
+      "Integrity": "1q1gLHbZh56AWe3V0kGvwO+0tlyapoEQyURjlWqoWco=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\books.jpg"
+    },
+    {
+      "Identity": "C:\\AMST5\\2A\\Projects\\POO\\AMST5_Task11_Interface01\\wwwroot\\images\\eletrodomesticos.jpg",
+      "SourceId": "AMST5_Task11_Interface01",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\AMST5\\2A\\Projects\\POO\\AMST5_Task11_Interface01\\wwwroot\\",
+      "BasePath": "_content/AMST5_Task11_Interface01",
+      "RelativePath": "images/eletrodomesticos#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "irmwmqg1tu",
+      "Integrity": "Pvnzdh/RNfg7PtVKOJsMtLlM+4JHUy4yD/kecpTGBTY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\eletrodomesticos.jpg"
+    },
+    {
+      "Identity": "C:\\AMST5\\2A\\Projects\\POO\\AMST5_Task11_Interface01\\wwwroot\\images\\informatica.jpg",
+      "SourceId": "AMST5_Task11_Interface01",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\AMST5\\2A\\Projects\\POO\\AMST5_Task11_Interface01\\wwwroot\\",
+      "BasePath": "_content/AMST5_Task11_Interface01",
+      "RelativePath": "images/informatica#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q69p7bunfa",
+      "Integrity": "wg29ibBQ/Z5KplOFKDHlxmHYkzY55Ya/KD+wGHVZzTI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\informatica.jpg"
+    },
+    {
       "Identity": "C:\\AMST5\\2A\\Projects\\POO\\AMST5_Task11_Interface01\\wwwroot\\js\\site.js",
       "SourceId": "AMST5_Task11_Interface01",
       "SourceType": "Discovered",
@@ -2752,7 +2815,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 16:58:03 GMT"
+          "Value": "Mon, 14 Apr 2025 16:38:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2805,7 +2868,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 16:58:03 GMT"
+          "Value": "Mon, 14 Apr 2025 16:38:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2842,7 +2905,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 16:58:03 GMT"
+          "Value": "Mon, 14 Apr 2025 16:38:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2889,7 +2952,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 16:58:03 GMT"
+          "Value": "Mon, 14 Apr 2025 16:38:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2950,7 +3013,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 16:58:03 GMT"
+          "Value": "Mon, 14 Apr 2025 16:38:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2995,7 +3058,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 16:58:03 GMT"
+          "Value": "Mon, 14 Apr 2025 16:38:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3050,7 +3113,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 16:58:03 GMT"
+          "Value": "Mon, 14 Apr 2025 16:38:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3111,7 +3174,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 16:58:03 GMT"
+          "Value": "Mon, 14 Apr 2025 16:38:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3156,7 +3219,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 16:58:03 GMT"
+          "Value": "Mon, 14 Apr 2025 16:38:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3211,7 +3274,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 16:58:03 GMT"
+          "Value": "Mon, 14 Apr 2025 16:38:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3264,7 +3327,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 16:58:03 GMT"
+          "Value": "Mon, 14 Apr 2025 16:38:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3301,7 +3364,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 07 Apr 2025 16:58:03 GMT"
+          "Value": "Mon, 14 Apr 2025 16:38:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3916,6 +3979,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0="
+        }
+      ]
+    },
+    {
+      "Route": "images/books.jpg",
+      "AssetFile": "C:\\AMST5\\2A\\Projects\\POO\\AMST5_Task11_Interface01\\wwwroot\\images\\books.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214044"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1q1gLHbZh56AWe3V0kGvwO+0tlyapoEQyURjlWqoWco=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 16:43:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1q1gLHbZh56AWe3V0kGvwO+0tlyapoEQyURjlWqoWco="
+        }
+      ]
+    },
+    {
+      "Route": "images/books.qcm8b1mdwg.jpg",
+      "AssetFile": "C:\\AMST5\\2A\\Projects\\POO\\AMST5_Task11_Interface01\\wwwroot\\images\\books.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214044"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1q1gLHbZh56AWe3V0kGvwO+0tlyapoEQyURjlWqoWco=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 16:43:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qcm8b1mdwg"
+        },
+        {
+          "Name": "label",
+          "Value": "images/books.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1q1gLHbZh56AWe3V0kGvwO+0tlyapoEQyURjlWqoWco="
+        }
+      ]
+    },
+    {
+      "Route": "images/eletrodomesticos.irmwmqg1tu.jpg",
+      "AssetFile": "C:\\AMST5\\2A\\Projects\\POO\\AMST5_Task11_Interface01\\wwwroot\\images\\eletrodomesticos.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pvnzdh/RNfg7PtVKOJsMtLlM+4JHUy4yD/kecpTGBTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 16:42:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "irmwmqg1tu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/eletrodomesticos.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pvnzdh/RNfg7PtVKOJsMtLlM+4JHUy4yD/kecpTGBTY="
+        }
+      ]
+    },
+    {
+      "Route": "images/eletrodomesticos.jpg",
+      "AssetFile": "C:\\AMST5\\2A\\Projects\\POO\\AMST5_Task11_Interface01\\wwwroot\\images\\eletrodomesticos.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52507"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pvnzdh/RNfg7PtVKOJsMtLlM+4JHUy4yD/kecpTGBTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 16:42:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pvnzdh/RNfg7PtVKOJsMtLlM+4JHUy4yD/kecpTGBTY="
+        }
+      ]
+    },
+    {
+      "Route": "images/informatica.jpg",
+      "AssetFile": "C:\\AMST5\\2A\\Projects\\POO\\AMST5_Task11_Interface01\\wwwroot\\images\\informatica.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60388"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wg29ibBQ/Z5KplOFKDHlxmHYkzY55Ya/KD+wGHVZzTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 16:42:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wg29ibBQ/Z5KplOFKDHlxmHYkzY55Ya/KD+wGHVZzTI="
+        }
+      ]
+    },
+    {
+      "Route": "images/informatica.q69p7bunfa.jpg",
+      "AssetFile": "C:\\AMST5\\2A\\Projects\\POO\\AMST5_Task11_Interface01\\wwwroot\\images\\informatica.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60388"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wg29ibBQ/Z5KplOFKDHlxmHYkzY55Ya/KD+wGHVZzTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 16:42:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q69p7bunfa"
+        },
+        {
+          "Name": "label",
+          "Value": "images/informatica.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wg29ibBQ/Z5KplOFKDHlxmHYkzY55Ya/KD+wGHVZzTI="
         }
       ]
     },

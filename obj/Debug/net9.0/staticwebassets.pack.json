@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\AMST5\\2A\\Projects\\POO\\AMST5_Task11_Interface01\\wwwroot\\images\\books.jpg",
+      "PackagePath": "staticwebassets\\images\\books.jpg"
+    },
+    {
+      "Id": "C:\\AMST5\\2A\\Projects\\POO\\AMST5_Task11_Interface01\\wwwroot\\images\\eletrodomesticos.jpg",
+      "PackagePath": "staticwebassets\\images\\eletrodomesticos.jpg"
+    },
+    {
+      "Id": "C:\\AMST5\\2A\\Projects\\POO\\AMST5_Task11_Interface01\\wwwroot\\images\\informatica.jpg",
+      "PackagePath": "staticwebassets\\images\\informatica.jpg"
+    },
+    {
       "Id": "C:\\AMST5\\2A\\Projects\\POO\\AMST5_Task11_Interface01\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
